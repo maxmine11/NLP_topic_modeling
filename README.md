@@ -1,4 +1,4 @@
-# Agora's Assignment
+# Assignment
 
 ## Main Task:
 #### Given:
